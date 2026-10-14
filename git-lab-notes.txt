@@ -1,0 +1,2 @@
+Project: Quadruped jump simulation
+Purpose: Practice Git version control
