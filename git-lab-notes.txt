@@ -1,2 +1,3 @@
 Project: Quadruped jump simulation
 Purpose: Practice Git version control
+Workflow: edit, stage, commit, push.
