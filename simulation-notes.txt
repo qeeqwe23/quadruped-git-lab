@@ -1,1 +1,1 @@
-Simulation test: jump onto a 0.15 m step.
+Simulation test: jump onto a 0.10 m step.
