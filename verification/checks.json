@@ -1,0 +1,23 @@
+{
+  "fk_vs_mujoco_max_error_m": 2.220446049250313e-16,
+  "jacobian_max_error": 6.601080793089409e-11,
+  "random_leg_configurations": 400,
+  "ballistic_endpoint_check": true,
+  "height_trials": {
+    "0.1": {
+      "success": true,
+      "stable_last_half_second": true,
+      "nonfoot_contact_steps": 0
+    },
+    "0.15": {
+      "success": true,
+      "stable_last_half_second": true,
+      "nonfoot_contact_steps": 0
+    },
+    "0.2": {
+      "success": false,
+      "stable_last_half_second": false,
+      "nonfoot_contact_steps": 2168
+    }
+  }
+}

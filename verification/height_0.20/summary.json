@@ -1,0 +1,61 @@
+{
+  "success": false,
+  "mass_kg": 9.16,
+  "step_height_m": 0.2,
+  "final_xyz_m": [
+    0.6485770320019103,
+    1.154874450762092e-16,
+    0.25498123486232377
+  ],
+  "final_speed_m_s": 9.708815390371215e-15,
+  "liftoff_time_s": 1.4099999999999555,
+  "touchdown_time_s": null,
+  "airborne_samples_duration_s": 0.403,
+  "stable_last_half_second": false,
+  "final_contacts": [
+    false,
+    false,
+    false,
+    false
+  ],
+  "final_feet_xyz_m": [
+    [
+      0.42921352343100416,
+      0.1607468524427343,
+      0.5244275022531604
+    ],
+    [
+      0.4292135234310043,
+      -0.16074685244273426,
+      0.5244275022531604
+    ],
+    [
+      0.7891232278644867,
+      0.1609149470157788,
+      0.5845522235516406
+    ],
+    [
+      0.789123227864487,
+      -0.16091494701577846,
+      0.5845522235516406
+    ]
+  ],
+  "peak_joint_torque_Nm": 45.0,
+  "saturated_joint_command_fraction": 0.0014583333333333334,
+  "nonfoot_contact_steps": 2168,
+  "mujoco_version": "3.3.7",
+  "numpy_version": "2.5.4",
+  "launch_xyz_m": [
+    0.07421143431471994,
+    3.3620024727508036e-18,
+    0.39186805064291247
+  ],
+  "launch_velocity_m_s": [
+    1.4963417731553357,
+    1.4636339514781528e-16,
+    2.2485103393727655
+  ],
+  "peak_trunk_tilt_deg": 179.99977752192086,
+  "peak_foot_normal_force_N": 251.5912009784107,
+  "com_ballistic_max_error_m": 0.2428192720061345
+}
